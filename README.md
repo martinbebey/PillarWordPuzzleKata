@@ -1,2 +1,0 @@
-# PillarWordPuzzleKata
-search word puzzle
